@@ -60,8 +60,8 @@ This work is licensed under a
  * Git(Hub) and RStudio
  * * Other Tips and Productivity Tools
 
- [**Lecture 3: Wrangling**]()
- ([html]()) ([pdf]())
+ [**Lecture 3: Wrangling**](https://github.com/afre-msu/AFRE-891-991-FS26/tree/358fc130d407803a71fdc42f902347efca336c30/Lecture%20Slides/03-Wrangling)
+ ([html](https://github.com/afre-msu/AFRE-891-991-FS26/blob/358fc130d407803a71fdc42f902347efca336c30/Lecture%20Slides/03-Wrangling/03-Wrangling.html)) ([pdf](https://github.com/afre-msu/AFRE-891-991-FS26/blob/358fc130d407803a71fdc42f902347efca336c30/Lecture%20Slides/03-Wrangling/03-Wrangling.pdf))
 
  * Tidyverse Overview
  * Pipes
